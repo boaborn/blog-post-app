@@ -1,8 +1,6 @@
-# weather-app
-![alt text](./image/weather_app.png)
+# Blog Post
+![alt text]()
 
-Redux Promise <br/>
-Redux Middleware <br/>
-Weather Api <br/>
-Google Map Api <br/>
-Ajax <br/>
+axios <br/>
+lodash <br/>
+componentDidMount <br/>
