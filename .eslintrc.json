@@ -1,0 +1,41 @@
+{
+  "extends": "google",
+  "parser":"babel-eslint",
+  "plugins":["babel", "react"],
+  "parserOptions": {
+    "ecmaVersion": 6,
+    "sourceType": "module",
+    "ecmaFeatures": {
+      "jsx": true
+    }
+  },
+  "rules": {
+    "generator-star-spacing": 0,
+    "semi": ["error", "never"],
+    "object-curly-spacing": "off",
+    "no-unused-vars": "off",
+    "max-len": "off",
+    "no-undef": "off",
+    "padded-blocks": "off",
+    "operator-linebreak": "off",
+    "arrow-parens": "off",
+    "no-invalid-this": "off",
+    "indent": ["error", 2, { "SwitchCase":1 }],
+    "space-infix-ops": ["error", {"int32Hint": false}],
+    "arrow-spacing": ["error", {"before": true}],
+    "no-multiple-empty-lines": ["error", {"max": 1}],
+    "comma-spacing": ["error", { "before": false, "after": true }],
+    "comma-dangle": ["error", "never"],
+    "react/jsx-curly-spacing": ["error", {"when": "always", "children": true}],
+    "react/jsx-indent": ["error", 2],
+    "require-jsdoc": ["error", {
+        "require": {
+            "FunctionDeclaration": false,
+            "MethodDefinition": false,
+            "ClassDeclaration": false,
+            "ArrowFunctionExpression": false,
+            "FunctionExpression": false
+        }
+    }]
+  }
+}
