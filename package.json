@@ -40,6 +40,7 @@
     "react-router-dom": "^4.2.2",
     "react-sparklines": "^1.6.0",
     "redux": "^3.0.4",
+    "redux-form": "^6.6.3",
     "redux-promise": "^0.6.0"
   }
 }
