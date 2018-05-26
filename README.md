@@ -5,9 +5,10 @@
 ![alt text](./image/post.png) </br>
 # Create Post: 
 ![alt text](./image/add_post.png) </br>
+
+React-router-dom v4 <br/>
+Redux Form <br/>
 axios <br/>
 lodash: _.map, _.mapKeys<br/>
 componentDidMount <br/>
-React-router-dom v4 <br/>
-# Redux Form <br/>
 Caching API Record
