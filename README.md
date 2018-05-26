@@ -1,10 +1,10 @@
 # Blog Post
-#Home: </br>
-![alt text](./image/home.png)
-#View a Post: </br>
-![alt text](./image/post.png)
-#Create Post: </br>
-![alt text](./image/add_post.png)
+#Home: 
+![alt text](./image/home.png) </br>
+#View a Post: 
+![alt text](./image/post.png) </br>
+#Create Post: 
+![alt text](./image/add_post.png) </br>
 axios <br/>
 lodash: _.map, _.mapKeys<br/>
 componentDidMount <br/>
